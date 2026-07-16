@@ -1,0 +1,31 @@
+﻿Bilder fuer die Festungs- und Unterwelt-Gebaeude hier ablegen (PNG/JPG).
+Der Dateiname muss dem Schluessel entsprechen, z. B.  festung.png
+Das Bild wird oben im jeweiligen Gebaeude-Tab angezeigt.
+
+== Festung ==
+  festung.png	= Festung
+  arbeiterquartier.png	= Arbeiterquartier
+  holzfaeller.png	= Holzfällerhütte
+  steinbruch.png	= Steinbruch
+  edelsteinmine.png	= Edelsteinmine
+  akademie.png	= Akademie
+  schuetzengilde.png	= Schützengilde
+  kaserne.png	= Kaserne
+  magierturm.png	= Magierturm
+  befestigung.png	= Befestigung
+  schmiede.png	= Schmiede
+  schatzkammer.png	= Schatzkammer
+  ritterhalle.png	= Ritterhalle
+  edelsteine.png	= Edelstein-Suche
+
+== Unterwelt ==
+  hdf.png	= Herz der Finsternis
+  tor.png	= Tor zur Unterwelt
+  goldgrube.png	= Goldgrube
+  seelenextraktor.png	= Seelenextraktor
+  goblingrube.png	= Goblingrube
+  folterkammer.png	= Folterkammer
+  gladiatortrainer.png	= Gladiatortrainer
+  trolltrakt.png	= Trolltrakt
+  zeitmaschine.png	= Zeitmaschine
+  waechter.png	= Wächter
