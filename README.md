@@ -1,6 +1,8 @@
 # Itemtracker
 Itemtracker for Shakes &amp; Fidget
 
+This application does NOT connect to or work with your account! This is a manual standalone program.
+
 Virustotal scan:
 https://www.virustotal.com/gui/file/dd521b87995ab65eea879e2ceba0ce356d9ea12cba2f19c40a416f27b4690322?nocache=1
 
